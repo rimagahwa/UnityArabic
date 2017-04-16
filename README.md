@@ -16,10 +16,10 @@ Step 2:
 A button passes the relavent langauge file (e.i localizedText_ar.json) to a function from the LocaliztionManger Object
 
 Step3:
-The LocaliztionManger Object trys to find the name of the file along (and the key value pairs in it) , then displays the text if it found.Otherwise it will inform the developer that the text was not found.
+The LocaliztionManger Object trys to find the name of the file (and the key value pairs in it) , then displays the text if it is found.Otherwise it will inform the developer that the text was not found.
 
 Step4:
 Once the text has been found, move on to the next scene . The data in the selected JSON file has been predetermind  at this point.
 
 
-Many thanks to Abdullah Konash and the Unity Learning Team.
+Many thanks to Abdullah Konash for his plugin and the Unity Team for the Localization Tutorial.
