@@ -1,0 +1,16 @@
+﻿{
+  "items": [
+    {
+      "key": "language_name",
+      "value": "العربية"
+    },
+    {
+      "key": "game_title",
+      "value": "لعبة الأسئلة"
+    },
+    {
+      "key": "start_button",
+      "value": "إبداء اللعبة"
+    }
+  ]
+}

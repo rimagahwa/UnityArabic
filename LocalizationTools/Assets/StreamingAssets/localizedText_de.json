@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "key": "language_name",
+      "value": "Deutsch"
+    },
+    {
+      "key": "game_title",
+      "value": "Quiz Spiel"
+    },
+    {
+      "key": "start_button",
+      "value": "Spiel Beginnen"
+    }
+  ]
+}
